@@ -1,0 +1,2 @@
+pracitce daily topic
+commit to bash Scripting repo

@@ -1,0 +1,9 @@
+world
+bash
+Scripting
+shell
+nothing
+error
+yes
+yeah!
+why

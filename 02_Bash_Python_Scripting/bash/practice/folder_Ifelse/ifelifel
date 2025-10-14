@@ -1,0 +1,8 @@
+#/bin/bash
+if [ ${1,,} = eljay ]; then
+echo "Welcome sir!"
+elif [ ${1,,} = help ]; then
+echo "Just enter your name, "
+else 
+echo "sorry!, only admin can enter"
+fi

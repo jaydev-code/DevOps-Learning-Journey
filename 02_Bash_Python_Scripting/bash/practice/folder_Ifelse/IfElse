@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo "enter name : "
+read name
+echo " enter age : "
+read age
+
+if [ $age -gt 18 ]; then
+echo "You are adult"
+else
+echo "Sorry $name ,Minor age are not allowed "
+fi
+

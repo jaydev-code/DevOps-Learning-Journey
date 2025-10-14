@@ -1,0 +1,18 @@
+#!/bin/bash
+echo "Enter Age : "
+read age
+if [ $age -le -1 ]; then
+echo "Invalid, Negative numbers!!"
+elif [ $age -ge 0 ] && [ $age -le 6 ]; then
+echo "you are still a baby"
+elif [ $age -ge 7 ] && [ $age -le 17 ]; then
+echo "You are a minor "
+elif [ $age -ge 18 ] && [ $age -le 30 ]; then
+echo "You are adult"
+elif [ $age -ge 31 ] && [ $age -le 50 ]; then
+echo "You are unc bro"
+elif [ $age -ge 51 ] && [ $age -le 80 ]; then
+echo "How many grandchildren you have? lmao "
+else
+echo "oh sir, You are just too old damn!"
+fi

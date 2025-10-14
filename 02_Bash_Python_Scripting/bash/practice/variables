@@ -1,0 +1,4 @@
+#!/bin/bash
+name="Eljay"
+age=20
+echo "Hello , My name is $name and im $age year's old"

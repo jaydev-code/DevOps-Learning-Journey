@@ -1,0 +1,4 @@
+#!/bin/bash
+# This is a comment
+echo "Hello, Eljay!"
+echo "this is a Bash Scripting practice"
