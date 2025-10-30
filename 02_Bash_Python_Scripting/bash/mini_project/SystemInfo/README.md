@@ -1,20 +1,20 @@
 System info Script
 
-This is Simple System Info Script with colurfull design output is written by bash
+This is Simple System Info Script with colorfull design output is written by bash
 
-features:
+##---features-----
 
-1.for system info
+1.System Informations
 
 Display hostname :
 Display uptime :
 Display user login :
 Display date and time :
 
-2.memory status
+2.Memory Status
 
-Display pyhsical Memory available :
-Dsplay swap memory available :
+Display Pyhsical Memory available :
+Display Swap Memory available :
 
 3.Disk Space :
 
@@ -22,7 +22,7 @@ Display Disk space availabale and used in file System :
 
 
 
----How to run----
+##---How to run----
 
 
 just run this 
