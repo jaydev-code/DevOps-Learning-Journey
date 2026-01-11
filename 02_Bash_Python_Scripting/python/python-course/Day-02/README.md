@@ -28,50 +28,50 @@
 
 Key Concepts:
      
-      Numeric Data Types:
+Numeric Data Types:
 
-        Integer: Whole numbers (e.g., 42, -10)
-        Float: Decimal numbers (e.g., 3.14, -0.5)
-        Complex: Complex numbers (e.g., 3+4j)
+Integer: Whole numbers (e.g., 42, -10)
+Float: Decimal numbers (e.g., 3.14, -0.5)
+Complex: Complex numbers (e.g., 3+4j)
 
-      Sequence Types
+Sequence Types
 
-        String: Text data, immutable
-        List: Ordered, mutable collection
-        Tuple: Ordered, immutable collection
+String: Text data, immutable
+List: Ordered, mutable collection
+Tuple: Ordered, immutable collection
 
-      Other Important Types
+Other Important Types
 
-        Dictionary: Key-value pairs for mapping data
-        Set: Unordered collection of unique items
-        Boolean: True/False values
-        None: Represents absence of value
+Dictionary: Key-value pairs for mapping data
+Set: Unordered collection of unique items
+Boolean: True/False values
+None: Represents absence of value
 
-    Running the Examples
+Running the Examples
 
      Navigate to any file and run it:
      bashpython3 Numeric-Data-Types/Integer.py
      python3 Sequence-Types/String/string.py
    
-    DevOps Relevance
+DevOps Relevance
       
-       Understanding data types is crucial for:
+Understanding data types is crucial for:
 
-         Parsing configuration files (strings, dictionaries)
-         Processing lists of servers or resources (lists)
-         Working with API responses (dictionaries, lists)
-         Handling numeric data like ports, timestamps (int, float)
+Parsing configuration files (strings, dictionaries)
+Processing lists of servers or resources (lists)
+Working with API responses (dictionaries, lists)
+Handling numeric data like ports, timestamps (int, float)
 
-    Notes
+Notes
 
-     These are basic examples to understand core concepts
-     Will expand with more complex examples as I progress
-     Focus is on understanding fundamentals before advanced use cases
+These are basic examples to understand core concepts
+Will expand with more complex examples as I progress
+Focus is on understanding fundamentals before advanced use cases
 
-    Next Steps
+Next Steps
 
-     Practice combining different data types
-     Work on real DevOps scenarios (log parsing, config management)
-     Move to Day 03: Keywords and Variables
+Practice combining different data types
+Work on real DevOps scenarios (log parsing, config management)
+Move to Day 03: Keywords and Variables
 
     
