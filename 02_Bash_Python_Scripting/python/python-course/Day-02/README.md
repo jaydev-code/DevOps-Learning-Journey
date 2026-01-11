@@ -26,7 +26,7 @@
         └── None-Data-Type/          # None type
 
 
-    Key Concepts:
+Key Concepts:
      
       Numeric Data Types:
 
