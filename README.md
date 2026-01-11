@@ -26,8 +26,13 @@ DevOps Learning Journey
  
   Python Scripting (In Progress)
  
-       Learning Python for more complex automation tasks that go beyond what Bash can handle efficiently.
-Focus areas:
+     - Day 01: Shell vs Python, Hello World ✓
+     - Day 02: Data Types (strings, numbers, lists, dicts) ← Currently here
+ 
+ 
+    Learning Python for more complex automation tasks that go beyond what Bash can handle efficiently.
+ 
+  Focus areas:
 
     - API interactions and data processing
     - Cross-platform automation scripts
